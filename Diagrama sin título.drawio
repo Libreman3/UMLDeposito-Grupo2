@@ -195,7 +195,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zTuqwJ2oNP809d_AsbmM-6" value="TipoProducto" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="470" width="160" height="140" as="geometry">
+          <mxGeometry x="30" y="500" width="160" height="140" as="geometry">
             <mxRectangle x="508" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -210,6 +210,33 @@
         </mxCell>
         <mxCell id="zTuqwJ2oNP809d_AsbmM-10" value="PesoUnidad" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-6">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-11" value="Rodados" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="500" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-12" value="Seguro" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-11">
+          <mxGeometry y="49" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-13" value="VerificacionTecnica" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-11">
+          <mxGeometry y="75" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-15" value="Vehiculo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-11">
+          <mxGeometry y="23" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-17" value="Vehiculos" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="500" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-18" value="Modelo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-17">
+          <mxGeometry y="49" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-19" value="Año" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-17">
+          <mxGeometry y="75" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-20" value="Patente" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-17">
+          <mxGeometry y="101" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTuqwJ2oNP809d_AsbmM-21" value="Tipo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zTuqwJ2oNP809d_AsbmM-17">
+          <mxGeometry y="23" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
